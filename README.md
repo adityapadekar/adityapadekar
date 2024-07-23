@@ -18,18 +18,6 @@
   </ul>
 </div>
 
-<br>
-
-<h2>🤝 Let's Connect 🤝</h2>
-<div> 
-    <a href="mailto:adityarpadekar@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-    </a>
-    <a href="https://www.linkedin.com/in/aditya-padekar-296522224" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-</div>
-
 <h2>⚒️ Languages, Frameworks, and Tools ⚒️</h2>
 <div>
     <img src="https://skillicons.dev/icons?i=cpp,js,ts,solidity,java,py,html,css,nodejs,npm,linux,vim,github,git" />
@@ -47,4 +35,14 @@
     <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=adityapadekar&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&card_width=400" alt="readme stats"/>
     <br>
     <img height="165" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=adityapadekar&count_private=true&date_format=j%20M%5B%20Y%5D&mode=weekly&theme=tokyonight&border_radius=10&card_width=855" alt="streak stats"/>
+</div>
+
+<h2>🤝 Let's Connect 🤝</h2>
+<div> 
+    <a href="mailto:adityarpadekar@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://www.linkedin.com/in/aditya-padekar-296522224" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
 </div>
