@@ -5,7 +5,7 @@
 </h1>
 
 <div>
-  <p>👋 Hi there! I'm a passionate software developer from India 🇮🇳, currently pursuing a degree in <strong>Computer Engineering</strong> at D. Y. Patil College of Engineering, Akurdi.</p>
+  <p>I'm a passionate software developer from India 🇮🇳, currently pursuing a degree in <strong>Computer Engineering</strong> at D. Y. Patil College of Engineering, Akurdi.</p>
   <p>💻 I've delved into various <strong>web development technologies</strong> and explored the exciting world of <strong>blockchain</strong>. My primary focus is on <strong>backend development</strong>, but I've also gained experience in <strong>frontend technologies</strong>.</p>
   <p>🔍 <strong>Key Points</strong>:</p>
   <ul style="text-align: left; display: inline-block;">
